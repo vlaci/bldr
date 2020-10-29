@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM python:3.6
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
