@@ -12,3 +12,5 @@ Features:
 * to test the debian package you can enter to the container which contains the build environment
 * the built debian package is stored in a local apt repository
 * build multiple dependent packages, if called multiple times (uses the built packages as build dependencies of the next ones)
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/<your-org>/<your-project>)
